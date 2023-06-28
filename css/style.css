@@ -1,0 +1,191 @@
+body {
+  background-color: rgb(221, 244, 218);
+  margin: 0%;
+  text-align: center;
+  font-family: sans-serif;
+}
+hr {
+  border: dotted;
+  color: blue;
+  border-bottom: none;
+  width: 6%;
+  margin: 100px auto;
+}
+h1 {
+  font-family: "Bungee Shade", cursive;
+  color: rgb(156, 107, 16);
+  font-size: 5rem;
+  margin: 50px auto 0 auto;
+  position: absolute;
+  top: 40px;
+  left: 180px;
+  margin: 150px auto 150px auto;
+}
+h2 {
+  color: #11999e;
+  font-family: "Merriweather", serif;
+}
+
+h3 {
+  color: rgb(37, 37, 210);
+  font-family: "Rowdies", cursive;
+}
+h4 {
+  color: rgb(194, 83, 36);
+}
+P {
+  font-size: 25px;
+  font-family: "Abril Fatface", cursive;
+}
+.contact-message {
+  width: 70%;
+  text-align: left;
+  margin: 60px AUTO 50px;
+}
+.top-content {
+  height: 850px;
+}
+
+.background-image {
+  width: 100%;
+}
+.heading1 {
+  font-family: "Rowdies", cursive;
+  color: cadetblue;
+  font-size: 50px;
+  position: absolute;
+  top: 5px;
+  left: 500px;
+  margin: 100px auto 100px auto;
+}
+.heading2 {
+  color: rgb(153, 17, 202);
+  margin-left: 30px;
+  margin-bottom: 80px;
+  font-family: "Montserrat", sans-serif;
+}
+.chrome {
+  height: 100px;
+  position: absolute;
+  top: 500px;
+  left: 90px;
+}
+
+.vs-code-img {
+  height: 100px;
+  position: absolute;
+  top: 500px;
+  left: 210px;
+}
+.html-img {
+  height: 100px;
+  position: absolute;
+  top: 500px;
+  left: 360px;
+}
+.computer-git {
+  height: 180px;
+  width: 180px;
+  position: relative;
+  bottom: 370px;
+}
+.css-img {
+  height: 100px;
+  position: absolute;
+  top: 500px;
+  right: 360px;
+}
+.java-img {
+  height: 100px;
+  position: absolute;
+  top: 500px;
+  right: 230px;
+}
+.github-img {
+  height: 100px;
+  position: absolute;
+  top: 500px;
+  right: 90px;
+}
+.code1-img {
+  height: 200px;
+  width: 200px;
+  float: left;
+  margin-right: 30px;
+}
+.IMMAGE1 {
+  float: left;
+  margin-right: 30px;
+}
+.computer-1 {
+  height: 200px;
+  width: 200px;
+  float: left;
+  margin-right: 30px;
+}
+.middle-content {
+  text-align: center;
+  margin: 100px 0;
+  padding: 10px 0 50px;
+}
+.FRIST {
+  width: 50%;
+  margin: 10px auto 100px auto;
+  padding: 10px 0 40px;
+}
+.skil {
+  width: 50%;
+  margin: 100px auto 60px;
+  padding-left: 40px 0 60px;
+}
+.p1 {
+  width: 80%;
+  margin: auto;
+  text-align: left;
+}
+.join-me {
+  width: 50%;
+  margin: 100px auto 60px;
+  padding-left: 40px 0 60px;
+}
+
+.bottom-contant {
+  background-color: darkcyan;
+  margin: 70px 0;
+  padding: 50px 0 20px;
+}
+a:hover {
+  color: #ffffff;
+}
+.footer-link {
+  color: darkblue;
+  margin: 20px 20px;
+  text-decoration: none;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  text-shadow: 1px 1px 3px #31c48e;
+  font-family: "Montserrat", sans-serif;
+  color: #ffffff;
+  font-size: 25px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
